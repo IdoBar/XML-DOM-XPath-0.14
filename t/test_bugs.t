@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/bin/env perl
 use strict;
 
 # $Id: test_bugs.t,v 1.6 2005/03/08 09:08:42 mrodrigu Exp $

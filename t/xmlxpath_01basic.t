@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/bin/env perl
 use strict;
 
 # $Id: xmlxpath_01basic.t,v 1.1.1.1 2003/12/04 20:40:43 mrodrigu Exp $

@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/bin/env perl
 use strict;
 
 # $Id: test_xml_xpath_and_xml_dom_xpath.t,v 1.2 2005/03/07 08:39:13 mrodrigu Exp $

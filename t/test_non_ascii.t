@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/bin/env perl
 use strict;
 
 # $Id: test_non_ascii.t,v 1.2 2005/10/18 08:37:22 mrodrigu Exp $
